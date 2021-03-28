@@ -1,2 +1,2 @@
 # Python
- Voltado a Estudo e Projetos de Python
+ Projetos e Estudos de Python 
